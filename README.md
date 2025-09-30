@@ -6,6 +6,7 @@
 [![CatBoost](https://img.shields.io/badge/CatBoost-Champion-purple.svg)](https://catboost.ai/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-Challenger-red.svg)](https://xgboost.readthedocs.io/)
 [![LightGBM](https://img.shields.io/badge/LightGBM-Challenger-yellow.svg)](https://lightgbm.readthedocs.io/)
+[![made-with-colab](https://colab.research.google.com/assets/colab-badge.svg )](https://colab.research.google.com/drive/18-iZh37kNQfgvg3mnamOU4SwZcsCoq0G?authuser=4#scrollTo=4fDFz94iDpAP)
 
 ## 📋 Project Overview
 
