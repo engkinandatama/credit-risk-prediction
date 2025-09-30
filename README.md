@@ -8,7 +8,7 @@
 [![LightGBM](https://img.shields.io/badge/LightGBM-Challenger-yellow.svg)](https://lightgbm.readthedocs.io/)
 
 
-## 📋 Project Overview | [![made-with-colab](https://colab.research.google.com/assets/colab-badge.svg )](https://colab.research.google.com/drive/18-iZh37kNQfgvg3mnamOU4SwZcsCoq0G?authuser=4#scrollTo=4fDFz94iDpAP)
+## 📋 Project Overview  [![made-with-colab](https://colab.research.google.com/assets/colab-badge.svg )](https://colab.research.google.com/drive/18-iZh37kNQfgvg3mnamOU4SwZcsCoq0G?authuser=4#scrollTo=4fDFz94iDpAP)
 
 This machine learning project aims to build an accurate credit risk prediction model using historical lending data from 2007-2014. The project implements a complete end-to-end ML workflow, from data cleaning, advanced feature engineering, multi-model comparison, and hyperparameter tuning to in-depth model interpretability and robustness analysis.
 
