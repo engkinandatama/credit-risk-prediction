@@ -160,12 +160,6 @@ pip install -r requirements.txt
 - **Noise Sensitivity**: Model behavior tested by adding noise (up to 10%) to the data.
 - **Segment Performance Analysis**: Ensuring the model performs well across various customer segments (e.g., all loan `grades`).
 
-```
-## 📧 Contact
-
-For questions, suggestions, or collaboration opportunities:
-- **LinkedIn**: [Engki Nandatama](https://www.linkedin.com/in/engkinandatama/)
-```
 ---
 
 *This project demonstrates end-to-end machine learning capabilities, from data preprocessing to post-modeling analysis, with a special emphasis on interpretability, robustness, and business impact assessment for financial risk management applications.*
