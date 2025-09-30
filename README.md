@@ -100,9 +100,9 @@ After tuning, the models were evaluated on the unseen test set. CatBoost maintai
 ### Financial Impact Analysis
 The implemented **CatBoost** model provides significant financial value compared to a "no-model" scenario (approving all loans).
 
-- **Net Impact (With CatBoost Model)**: **$23,281,085.98**
-- **Net Impact (Without Model)**: -$18,448,019.00
-- **Financial Value Add of the Model**: **$41,729,104.98**
+- **Net Impact (With CatBoost Model)**: **$430,755.30**
+- **Net Impact (Without Model)**: $-40,000,061.12
+- **Financial Value Add of the Model**: **$40,430,816.42**
 
 ## 🚀 Getting Started
 
